@@ -1,4 +1,4 @@
-Sistem berbasis Machine Learning untuk memprediksi total produksi energi listrik (kWh) guna mendukung perencanaan operasional PLTA.
+Sistem berbasis Machine Learning untuk memprediksi total produksi energi listrik (kWh) guna mendukung perencanaan operasional PLTA Ir. H. Djuanda.
 Dikembangkan menggunakan data historis operasional pembangkit tahun 2020 s.d. 2025.
 
 Tech Stack
